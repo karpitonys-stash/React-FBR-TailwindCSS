@@ -1,6 +1,7 @@
 # React + File-Based Routing + TailwindCSS
 
 > [!WARNING]
+> - 개인용 보일러플레이트
 > - 항상 패키지 버전을 잘 확인하기
 
 - React + Vite
