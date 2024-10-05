@@ -1,4 +1,4 @@
-# React + File-Based Routing + TailwindCSS
+# React + Folder-Based Routing + TailwindCSS
 
 > [!WARNING]
 > - 개인용 보일러플레이트
@@ -6,7 +6,7 @@
 
 - React + Vite
 - TypeScript + [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc)
-- [@vite-plugin-next-react-router](https://github.com/zoubingwu/vite-plugin-next-react-router)를 사용한 파일 구조 라우터
+- [@vite-plugin-next-react-router](https://github.com/zoubingwu/vite-plugin-next-react-router)를 사용한 폴더 구조 라우터
 
 ## Checklist
 - [ ] Rename name and author fields in `package.json` and `package-lock.json`
